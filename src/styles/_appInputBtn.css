@@ -1,0 +1,12 @@
+.App_inputBtn{
+background-color: #ee5812;
+    border: 0 none;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 10px 10px 8px 10px;
+    margin: 0 0 0 10px;
+    text-transform: uppercase;
+    color: #fff !important;
+    width: auto;
+    text-align: center;
+}

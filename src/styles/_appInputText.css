@@ -1,0 +1,11 @@
+.App_inputText{    
+    border: 1px solid #000;    
+    background-color: rgba(255, 255, 255, 0.13);
+    color: #333;
+    height: 25px;
+    padding: 0 0 0 5px;    
+}
+
+.App_inputTextItalic{
+    font-style: italic;
+}
